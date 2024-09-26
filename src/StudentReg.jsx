@@ -48,7 +48,7 @@ const StudentReg = () => {
 
   return (
     <div className="App">
-      <h2>Register Fleximake User</h2>
+      <h2>Student Details Submission</h2>
       <form onSubmit={handleSubmit}>
         <div>
           <label>Name: </label>
